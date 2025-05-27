@@ -1,0 +1,3 @@
+# preserve CRLF line endings for test files
+*.ics text eol=crlf
+*.vcs text eol=crlf
