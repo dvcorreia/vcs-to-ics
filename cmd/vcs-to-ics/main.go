@@ -1,3 +1,6 @@
+// Copyright (c) Diogo Correia
+// SPDX-License-Identifier: MIT
+
 package main
 
 import (
