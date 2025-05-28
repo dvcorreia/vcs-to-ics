@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+PRODID:dv_correia@hotmail.com
+VERSION:2.0
+BEGIN:VEVENT
+ORGANIZER:dv_correia@hotmail.com
+SUMMARY:A b c d e f g h i j k l m n o p q r s t u v w x y z a b c de f g h i j k l m n o p q r s t u v w x y z
+DESCRIPTION:
+LOCATION:
+DTSTART:20110617T060000Z
+DTEND:20110617T060000Z
+DTSTAMP:20110616T175345Z
+END:VEVENT
+END:VCALENDAR

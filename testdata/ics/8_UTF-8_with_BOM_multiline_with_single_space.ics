@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+PRODID:dv_correia@hotmail.com
+VERSION:2.0
+BEGIN:VEVENT
+ORGANIZER:dv_correia@hotmail.com
+SUMMARY:multiline with single space. vCalendar v2.0 instead of v1.0 (should have ics extension)
+DESCRIPTION:Symbols by order:\n.\,'?!"-()@/:_\\\;+&%*=<>==£€$¥¤[]{}\\\\~^¡¿§#| \nDouble carriage return:\n\nÀëíºôõøªáàâåæçñßüþ0==0D=0A -There shouldn't be carriage return because is not quoted-printable.
+LOCATION:Akh \\t es \\p \\n ab
+DTSTART:20110607T100000
+DTEND:20110607T110000
+DTSTAMP:20250520T140140Z
+END:VEVENT
+END:VCALENDAR

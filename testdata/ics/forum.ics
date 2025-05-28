@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+PRODID:dv_correia@hotmail.com
+VERSION:2.0
+BEGIN:VEVENT
+ORGANIZER:dv_correia@hotmail.com
+SUMMARY:Quoted-printable chars (€)
+DESCRIPTION:Some symbols to show:\n.@/:_\;,'?!"-()+&%*=<{}\\~>==£€$¥¤[]^¡¿| §#\nDouble CRLF:\n\n Àáàâåëíºôõøªæçñßüþ+Çç_-`j¿¡·h
+LOCATION:The Cairo, daily alarm
+DTSTART:20110605T140000Z
+DTEND:20110605T140000Z
+DTSTAMP:20110605T100319Z
+END:VEVENT
+END:VCALENDAR
